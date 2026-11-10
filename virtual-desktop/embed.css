@@ -13,3 +13,5 @@ main{max-width:min(100%,calc((100dvh - 52px)*1200/740));margin:auto}.monitor:ful
 /* Desktop shortcuts stay behind open windows, and disappear in document focus. */
 .desktop-icons{z-index:1}
 .desktop:has(#notes-window.document-maximized:not([hidden])) .desktop-icons{visibility:hidden;pointer-events:none}
+
+.cozy-home-desktop{max-width:130px}.cozy-home-desktop .app-icon img{object-fit:contain}.desktop-icons{gap:18px}
