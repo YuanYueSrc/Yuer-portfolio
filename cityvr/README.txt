@@ -1,0 +1,1 @@
+CityVR Walk / Unity Demo 独立展示文档。第一部分城市漫游；第二部分场景重建、语义分类与URP技术理解。仅本地预览，未接入主页或上传GitHub。Scene3a视频与Scene4a.apk不是同一文件名版本，未将APK作为视频对应安装包。
