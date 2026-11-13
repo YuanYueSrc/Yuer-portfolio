@@ -23,3 +23,5 @@
 
 /* Portfolio collection: independent second row, with matching 64px year icons. */
 .desktop .desktop-icons.desktop-organized{row-gap:62px}.desktop-organized .desktop-personal{grid-column:4;grid-row:1}.desktop-organized .desktop-portfolios{grid-column:1;grid-row:2}.desktop-organized .desktop-portfolios .group-items{grid-template-columns:repeat(2,minmax(0,1fr))}.desktop .desktop-copy{left:450px;top:535px}.portfolio-desktop .app-icon img{transform:none!important}
+
+.personal-document a.resume-download{display:inline-flex;align-items:center;justify-content:center;margin:0 0 22px;padding:11px 18px;border:1px solid #597064;border-radius:7px;background:#354d41;color:#fff;font:600 14px/1.5 Arial,"Microsoft YaHei",sans-serif;text-decoration:none}.personal-document a.resume-download:hover{background:#466352}.personal-document a.resume-download:focus-visible{outline:2px solid #8eaa94;outline-offset:3px}
